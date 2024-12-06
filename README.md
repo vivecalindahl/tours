@@ -1,5 +1,5 @@
 # About
-This directory contains my solution for a mini-project carried out in an interview process with a company making a route planner app.
+This directory contains my solution for a mini-project carried out in a data scientist interview process with a company making a route planner app.
 The task was to for each user suggest other users to connect with and a starting point for a 50 km group cycling ride.
 
 
