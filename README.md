@@ -4,7 +4,7 @@ The task was to for each user suggest other users to connect with and a starting
 
 
 # Get started
-To try it out, set up a python environment supporting the Python requirements. The dependencies to install are specified in `requirements.txt`. Alternatively, if you use `pipenv` for managing virtual environmens, a `Pipfile` and corresponding `Pipfile.lock` file is ready at your disposal.
+To try it out set up a python environment supporting the Python requirements. The dependencies to install are specified in `requirements.txt`. Alternatively, if you use `pipenv` for managing virtual environmens, a `Pipfile` and corresponding `Pipfile.lock` file is ready at your disposal.
 
 The solution is implemented in the executable `tours.py`. To get more info about it run
 ```
